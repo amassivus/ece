@@ -10,6 +10,12 @@ BSD 3-Clause License
 
 Copyright (c) 2024, amassivus and contributors
 
+Copyright (c) 2024, procyberian and contributors
+
+Copyright (c) 2024, Mass Collaboration Labs and contributors
+
+Copyright (c) 2024, Masscollabs Services
+
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
